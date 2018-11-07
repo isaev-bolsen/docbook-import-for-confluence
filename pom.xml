@@ -53,10 +53,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <conf.version>5.8.1</conf.version>
-    <conf.data.version>5.8</conf.data.version>
-    <java.version>1.7</java.version>
-    <atlassian.plugin.version>6.3.7</atlassian.plugin.version>
+    <conf.version>5.9.12</conf.version>
+    <conf.data.version>5.9</conf.data.version>
+    <java.version>1.8</java.version>
+    <atlassian.plugin.version>6.3.12</atlassian.plugin.version>
   </properties>
   
   <dependencies>
